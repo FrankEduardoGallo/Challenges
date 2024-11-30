@@ -35,11 +35,20 @@
 
 ## Lista de Retos
 
-### Principiantes
+# Retos Kubernetes
 
-1. [Suma de dos números](./principiantes/suma-dos-numeros.md)
-2. [Número palíndromo](./principiantes/numero-palindromo.md)
-3. [FizzBuzz](./principiantes/fizzbuzz.md)
+## Índice
+
+| #   | Título                                | Enlace                                                                                     |
+|-----|---------------------------------------|--------------------------------------------------------------------------------------------|
+| 1   | Microservicios con Ingress en Kubernetes | [Ver Reto](https://github.com/FrankEduardoGallo/Challenges/blob/kubernetes/reto-1-kube.md) |
+
+## ¿Cómo participar?
+
+- Elige un reto del índice.
+- Lee las instrucciones y resuelve el problema en tu propio entorno.
+- Comparte tu solución abriendo un Pull Request en este repositorio.
+
 
 ### Intermedios
 
