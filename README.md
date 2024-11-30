@@ -10,7 +10,7 @@
 
 1. [¿Cómo funciona?](#cómo-funciona)
 2. [Lista de Retos](#lista-de-retos)
-   - [Principiantes](#principiantes)
+   - [Principiantes](#kubernetes)
    - [Intermedios](#intermedios)
    - [Avanzados](#avanzados)
 3. [Reglas y Buenas Prácticas](#reglas-y-buenas-prácticas)
@@ -38,6 +38,7 @@
 # Retos Kubernetes
 
 ## Índice
+### kubernetes
 
 | #   | Título                                | Enlace                                                                                     |
 |-----|---------------------------------------|--------------------------------------------------------------------------------------------|
