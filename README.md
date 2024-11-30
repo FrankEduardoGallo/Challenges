@@ -10,9 +10,7 @@
 
 1. [¿Cómo funciona?](#cómo-funciona)
 2. [Lista de Retos](#lista-de-retos)
-   - [Principiantes](#kubernetes)
-   - [Intermedios](#intermedios)
-   - [Avanzados](#avanzados)
+   - [Kubernetes](#kubernetes)
 3. [Reglas y Buenas Prácticas](#reglas-y-buenas-prácticas)
 4. [Cómo Participar](#cómo-participar)
 5. [Contribuciones](#contribuciones)
@@ -37,8 +35,7 @@
 
 # Retos Kubernetes
 
-## Índice
-### kubernetes
+### Kubernetes
 
 | #   | Título                                | Enlace                                                                                     |
 |-----|---------------------------------------|--------------------------------------------------------------------------------------------|
@@ -49,20 +46,6 @@
 - Elige un reto del índice.
 - Lee las instrucciones y resuelve el problema en tu propio entorno.
 - Comparte tu solución abriendo un Pull Request en este repositorio.
-
-
-### Intermedios
-
-1. [Ordenamiento personalizado](./intermedios/ordenamiento-personalizado.md)
-2. [Cálculo de rutas óptimas](./intermedios/rutas-optimas.md)
-3. [Validador de expresiones matemáticas](./intermedios/validador-expresiones.md)
-
-### Avanzados
-
-1. [Algoritmo de Dijkstra](./avanzados/dijkstra.md)
-2. [Compresión de datos](./avanzados/compresion-datos.md)
-3. [Simulación de redes neuronales](./avanzados/redes-neuronales.md)
-
 ---
 
 ## Reglas y Buenas Prácticas
